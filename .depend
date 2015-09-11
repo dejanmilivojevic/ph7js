@@ -1,0 +1,2 @@
+ph7_run.o: ph7_run.c ph7.h
+ph7.o: ph7.c
